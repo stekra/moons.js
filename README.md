@@ -9,8 +9,8 @@
 ```html
 <span class=moon></span>
 ```
-[example](https://quadrilateral.party/moon/)
-
 <br>
+
+[example](https://quadrilateral.party/moon/)
 
 🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌘

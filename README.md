@@ -10,4 +10,4 @@
 <span class=moon></span>
 ```
 
-🌚
+🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌘

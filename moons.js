@@ -5,8 +5,8 @@ let moons = document.getElementsByClassName("moon");
 
 function update() {
     if (!time) {
-        for (let i = 0; i < moons.length; i++) {
-            moons[i].innerText = lookup[phase];
+        for (let moon of moons) {
+            moon.innerText = lookup[phase];
         }
         phase = (phase + 1) % lookup.length;
         time = 20;

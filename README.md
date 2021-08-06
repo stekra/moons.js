@@ -11,6 +11,6 @@
 ```
 <br>
 
-[example](https://quadrilateral.party/moon/)
+[example](https://quadrilateral.party/etc/moon/)
 
 🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌘
